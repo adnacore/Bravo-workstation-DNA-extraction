@@ -1,4 +1,4 @@
-# Bravo-workstation-DNA-extraction-part-II-protocol-DNA-purification-
+# Bravo-workstation-DNA-extraction
 This repository contains the electronic protocol files for the Automated DNA Extraction in 5M40 extraction buffer for automated liquid handling on the Bravo NGS workstation B in 96-well format. The method was developed primarily for ancient DNA research. It provides the following electronic protocols:
 # Requirements
 To use the protocol, a Bravo NGS workstation is required. Calibration of the instrument for this protocol has to be performed by the user and requires significant expertise in using the platform.
